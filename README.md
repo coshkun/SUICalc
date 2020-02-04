@@ -1,9 +1,9 @@
 # SUICalc
 SUICalc is a redesign project and a strong candidate to be a nice replacement for standard iOS Calculator. I've started this, to learn SwiftUI which is quite popular in these days.
 
-![screen_shot1](https://raw.githubusercontent.com/coshkun/SUICalc/master/Resources/_fp_assets/ss1.png)
-![screen_shot2](https://raw.githubusercontent.com/coshkun/SUICalc/master/Resources/_fp_assets/ss2.png)
-![screen_shot3](https://raw.githubusercontent.com/coshkun/SUICalc/master/Resources/_fp_assets/ss3.png)
+![screen_shot1](https://raw.githubusercontent.com/coshkun/SUICalc/master/Resources/_fp_assets/ss1s.png)
+![screen_shot2](https://raw.githubusercontent.com/coshkun/SUICalc/master/Resources/_fp_assets/ss2s.png)
+![screen_shot3](https://raw.githubusercontent.com/coshkun/SUICalc/master/Resources/_fp_assets/ss3s.png)
 
 SwiftUI is the newest UI definition language in Apple's World todays. it came along with XCode 11 and started a storm between swifty communities. it seems still need more time to have a proper convention but i started to learn this new syntax. it makes most of things easier than storyboards.
 
